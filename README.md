@@ -6,4 +6,4 @@
 ## 3) Approximation by optimized grid search (no vertical lines and smoothed curve)
 ![gso](/Images/GridSearchOpt.png)
 ## 4) Approximation by beta grid search (1 + 3 points)
-![gbs](/Images/GridBetaSearch.png)
+![gbs](/Images/GridBeta.png)
